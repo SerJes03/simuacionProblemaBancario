@@ -16,7 +16,6 @@ Aplicar conceptos de simulación para:
 
 ## 🛠 Tecnologías utilizadas
 
-* Python
 * SimPy
 * Pandas
 * NumPy
